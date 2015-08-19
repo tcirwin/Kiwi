@@ -36,7 +36,7 @@
 			<key>NotPersisted</key>
 			<true/>
 			<key>Type</key>
-			<string>text</string>
+			<string>class</string>
 		</dict>
 		<dict>
 			<key>Default</key>
